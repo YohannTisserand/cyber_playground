@@ -64,17 +64,9 @@ So that I can gain more content
 When I level up I would like to unlock new features on the map
 ```
 
-### Planning
-<a href="https://trello.com/b/fIF6u9fg/shuttr">Our Trello Board </a>
-
-## How to use
-Clone this repo and move into the project directory.
-Run `yarn install` to ensure all node modules are running.
-To use this app you will also need to clone the server repo found [here](https://github.com/tiffanyvallo/shuttr-server)
-
 ```
-$ git clone https://github.com/YohannTisserand/shuttr.git
-$ cd shuttr
+$ git clone https://github.com/YohannTisserand/cyber_playground.git
+$ cd cyber_playground
 $ yarn install
 ```
 Once yarn is installed you can run the project on the client side using this code
