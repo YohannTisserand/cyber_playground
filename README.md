@@ -1,5 +1,5 @@
 
-# shuttr 📸
+# Cyber Playground 📸
 
 Have you ever wanted to take amazing photos but don’t know where to go to take them? 
 We have the solution for you.
